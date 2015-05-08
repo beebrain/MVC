@@ -5,3 +5,4 @@ Part 1 add
 =======
 part2
 >>>>>>> part2
+part1
