@@ -1,7 +1,2 @@
 Master
-<<<<<<< HEAD
-part 1 add
-Part 1 add
-=======
-part2
->>>>>>> part2
+
